@@ -130,4 +130,4 @@ Scenario: Search by name
     And I press the "Search" button
     Then I should see the message "Success"
     And I should see "Hat" in the "Name" field
-    And I should see "A red fedora" in the "Description" field    
+    And I should see "A red fedora" in the "Description" field
